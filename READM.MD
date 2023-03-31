@@ -1,6 +1,6 @@
 <h1>Lista de Exercícios.[Python]</h1>
 
-1.Variáveis
+<b>1.Variáveis</b>
 
 1.1 Crie uma variavel que receba seu nome  e exiba para o usuário o conteúdo da variável e o tipo do conteúdo.
 
